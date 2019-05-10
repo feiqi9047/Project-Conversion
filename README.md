@@ -11,7 +11,7 @@ The model aims to predict whether the conversion was successful via purchase (1:
 - xyz_campaign_id: an ID associated with each ad campaign of the anonymous company
 - fb_campaign_id: an ID associated with how Facebook tracks each campaign
 - age: age of the person to whom the ad is shown
-- gender: gender of the person to whom the add is shown
+- gender: gender of the person to whom the ad is shown
 - interest: a code specifying the category to which the person’s interest belongs (interests are as mentioned in the person’s Facebook public profile)
 - Impressions: the number of times the ad was shown to that person
 - Clicks: number of times that person clicked on that ad
