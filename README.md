@@ -198,7 +198,7 @@ Ranking the importance of my features, I obtain the following:
 
 ## Conclusion
 
-Out of the four classification models I ran, the best result in terms of Accuracy and F1 Scores was provided by my Decision Tree using Random Forest, of ~99% Accuracy on my test-data with a F1 Score of 0.99.
+Out of the four classification models I ran, the best result in terms of Accuracy and F1 Scores was provided by my XGBoost model, with ~99.5% Accuracy on my test-data for a F1 Score of 0.995.
 
 
 
