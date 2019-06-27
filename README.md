@@ -5,7 +5,7 @@ Effective of Facebook Ads in Measuring Sales Conversion
 
 The data was collected from an anonymous company's social media ad campaign that was made available on Kaggle. The dataset contains 1143 observations and 11 variables. There are a total of 3 unique company campaigns and 691 various facebook campaigns included in this dataset.
 
-The model aims to predict whether the conversion was successful via purchase (1: bought, 0: didn't buy) for an independent facebook user. The independent variables in the model consist of the following:
+The model aims to predict whether the conversion was successful via purchase (1: bought, 0: didn't buy) for each ad campaign. The independent variables in the model consist of the following:
 
 - ad_id: an unique ID for each ad
 - xyz_campaign_id: an ID associated with each ad campaign of the anonymous company
